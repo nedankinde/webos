@@ -7,3 +7,6 @@
 ```bash
 bun run dev
 ```
+
+
+##### Written in SolidJS
